@@ -9,7 +9,7 @@
 title: Fiona Yang
 email: fiona.yang28@gmail.com
 description: Risk Management, Data Science
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/fiona_page" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: 
 github_username: fionayang288
