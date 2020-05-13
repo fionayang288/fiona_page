@@ -15,7 +15,7 @@ permalink: /about/
   </div>
 <p>  <div class="manual-content">
 
-  - Knowledge I've learned and would like to share.<br>
+  - Knowledge I've learned and would like to explain.<br>
  <br>
 <div class="manual-post">
   <div class="manual manual-title">
@@ -24,5 +24,12 @@ permalink: /about/
 <p>  <div class="manual-content">
   
   - My learning plan and learning resources to share.<br>
-
+ <br>
+<div class="manual-post">
+  <div class="manual manual-title">
+  <strong>Life</strong>
+  </div>
+<p>  <div class="manual-content">
+  
+  - Take a record of my life and enjoy it.<br>
 
